@@ -7,8 +7,9 @@
 **개발 기간**: 2024.03 ~ 2024.11 (약 8개월)  
 **팀 구성**: 컴퓨터공학 1명, 전기공학 2명, 기계공학 1명
 
-## 프로젝트 사진
+## 프로젝트 미디어 자료
 <img src="sample.png" alt="시스템 아키텍처" width="50%">
+https://www.youtube.com/watch?v=PMWMkbp5enE&list=PL0bpLNgLWNqSEkyhUqsxgQeczZ1ajG5RY&index=5
 
 ## 수상 내역
 - 교내 캡스톤 경진대회 **대상**
