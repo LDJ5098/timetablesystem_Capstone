@@ -24,20 +24,22 @@ https://www.youtube.com/watch?v=apCBiD5LA90&list=PL0bpLNgLWNqSEkyhUqsxgQeczZ1ajG
 
 ## 기술 스택
 
+### Infrastructure & Server (Main)
+* **OS**: Ubuntu Server 20.04 LTS (Raspberry Pi 4B)
+* **Web Server**: Apache2 (MPM Prefork 튜닝 및 가상 호스트 설정)
+* **Virtualization**: VMware Workstation (개발/운영 환경 분리)
+
+### Backend & Database
+* **Language**: PHP 7.4, Shell Script
+* **Database**: MySQL 8.0 (정규화 설계 및 인덱싱)
+* **Communication**: HTTP/1.1, TCP/IP Socket
+
+### Hardware & Embedded
+* **MCU**: ESP32 (Wi-Fi 통신 모듈)
+* **Display**: E-Paper (저전력 전자종이)
+
 ### Frontend
-- HTML, CSS, JavaScript
-- AJAX 비동기 통신
-
-### Backend
-- Ubuntu Server 20.04
-- Apache2 Web Server
-- PHP
-- MySQL
-
-### Hardware
-- ESP32 (IoT 보드)
-- E-Paper Display (전자종이)
-- Raspberry Pi 4B (서버)
+* HTML5, CSS3, JavaScript (AJAX Polling)
 
 ## 시스템 아키텍처
 <img src="Project Architecture.png" alt="시스템 아키텍처" width="50%">
