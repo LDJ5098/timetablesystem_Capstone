@@ -9,7 +9,7 @@
 
 ## 프로젝트 미디어 자료
 <img src="sample.png" alt="시스템 아키텍처" width="50%">
-https://www.youtube.com/watch?v=PMWMkbp5enE&list=PL0bpLNgLWNqSEkyhUqsxgQeczZ1ajG5RY&index=5
+https://www.youtube.com/watch?v=apCBiD5LA90&list=PL0bpLNgLWNqSEkyhUqsxgQeczZ1ajG5RY&index=9
 
 ## 수상 내역
 - 교내 캡스톤 경진대회 **대상**
