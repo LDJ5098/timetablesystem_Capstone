@@ -36,7 +36,7 @@
 - Raspberry Pi 4B (서버)
 
 ## 시스템 아키텍처
-![시스템 아키텍처](PA.png)
+<img src="PA.png" alt="시스템 아키텍처" width="50%">
 
 ## 주요 성과
 - Raspberry Pi 활용한 자체 서버 구축으로 SW 비용 최소 8만원 절감
